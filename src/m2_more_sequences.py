@@ -391,7 +391,7 @@ def count_same(sequence1, sequence2):
       16 (both are 'y') and 17 (both are '?') -- 8 indices.
     Type hints:
       type: sequence1: tuple or list or string
-      type: sequence2: tuple or list or string 
+      type: sequence2: tuple or list or string
     """
     # ------------------------------------------------------------------
     # DONE: 6. Implement and test this function.
